@@ -1,50 +1,31 @@
-🎉 Amigo Secreto Digital 🎉
-Um sorteio divertido e prático para suas festas de fim de ano!
-👉 Acesse aqui a versão online
+🎁 Amigo Secreto - Projeto Oracle ONE
+Solução simples para sorteios de fim de ano
+🔗 Acesse o projeto online
 
-<div align="center"> <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcW5jZ3VjYjJxY2V4eWl5bXZ3Z2J6dDZ4eGJ6dWQ2a3BmbGJmYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT5LMHxhOfscxPfIfm/giphy.gif" width="300" alt="Amigos celebrando"> </div>
+Projeto desenvolvido como parte do programa Oracle ONE em parceria com Alura
+
+<div align="center"> <img src="https://i.imgur.com/JQ8wz7E.png" width="500" alt="Tela do Amigo Secreto"> </div>
+📋 Sobre
+Este projeto foi criado como exercício do curso de JavaScript da formação Oracle ONE. É uma implementação simples e funcional para sorteios de amigo secreto, sem planos de atualizações futuras.
+
 ✨ Funcionalidades
-✅ Adicionar participantes com validação
-✅ Sortear com um clique
-✅ Remover o último sorteado (caso precise corrigir)
-✅ Visualização em tempo real da lista
-✅ Design responsivo para celulares e tablets
+Adicionar participantes
 
-🛠️ Como Usar
-Digite os nomes dos participantes
+Sorteio único
 
-Clique em "Adicionar"
+Visualização da lista
 
-Quando todos estiverem na lista, clique em "Sortear"
+Interface minimalista
 
-Se precisar voltar atrás, use "Remover Último Sorteado"
+🛠 Tecnologias Utilizadas
+HTML5
 
-🚀 Tecnologias
-HTML5 semântico
+CSS3
 
-CSS3 moderno (Flexbox + Grid)
+JavaScript Vanilla
 
-JavaScript puro (ES6+)
+📝 Licença
+Este projeto foi desenvolvido para fins educacionais como parte do programa Oracle ONE.
 
-GitHub Pages para deploy
+<div align="center"> <sub>Código desenvolvido por <a href="https://github.com/MarcosBarradas">Marcos Barradas</a></sub> </div>
 
-
-<div align="center"> <sub>Criado com ❤️ por <a href="https://github.com/MarcosBarradas">Marcos Barradas</a></sub> 🌟 Deixe sua estrela no repositório! 🐞 Encontrou um bug? <a href="https://github.com/MarcosBarradas/AmigoSecreto/issues">Reporte aqui</a> </div>
-📜 Preview
-https://i.imgur.com/JQ8wz7E.png
-
-Dica: Use em festas familiares ou no trabalho! ✨
-
-Esse README foi projetado para:
-
-Chamar atenção com emojis e formatação
-
-Explicar rapidamente as funcionalidades
-
-Mostrar o link do GitHub Pages destacado
-
-Incluir uma call-to-action (issues e stars)
-
-Manter um visual clean e organizado
-
-Quer adicionar ou modificar algo? Posso ajustar conforme sua preferência! 😊
