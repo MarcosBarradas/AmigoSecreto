@@ -11,9 +11,6 @@ Este projeto foi criado com o objetivo de **praticar e consolidar os conheciment
 
 Ele integra os desafios propostos durante a formação **Oracle ONE + Alura**, iniciativa voltada à formação de novos profissionais na área de tecnologia.
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/674899/230773513-5f7de8cf-054e-4dd0-a927-475e179e9395.png" alt="Oracle + Alura" width="300">
-</p>
 
 ---
 
