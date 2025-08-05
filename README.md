@@ -4,7 +4,6 @@ Solução simples para sorteios de fim de ano
 
 Projeto desenvolvido como parte do programa Oracle ONE em parceria com Alura
 
-<div align="center"> <img src="https://i.imgur.com/JQ8wz7E.png" width="500" alt="Tela do Amigo Secreto"> </div>
 📋 Sobre
 Este projeto foi criado como exercício do curso de JavaScript da formação Oracle ONE. É uma implementação simples e funcional para sorteios de amigo secreto, sem planos de atualizações futuras.
 
