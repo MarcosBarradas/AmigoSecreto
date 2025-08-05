@@ -3,10 +3,6 @@
 Solução simples e educativa para sorteios de fim de ano.  
 🚀 Desenvolvido como parte do programa **Oracle Next Education (ONE)** em **parceria com a [Alura](https://www.alura.com.br/)**.
 
-<p align="center">
-  <img src="https://i.imgur.com/JQ8wz7E.png" width="500" alt="Tela do Amigo Secreto">
-</p>
-
 ---
 
 ## 📚 Sobre o Projeto
