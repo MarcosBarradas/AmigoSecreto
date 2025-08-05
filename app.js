@@ -32,17 +32,17 @@ function atualizarListaAmigos(amigos){
 } 
 
 function sortearAmigo() {
-    // Verifica se há participantes suficientes, pois não há sentido em sortear uma pessoa
-    const minimoParticipantes = 2;
     
-    if (amigos.length < minimoParticipantes) {
-        alert("É necessário ter pelo menos dois amigos cadastrados para realizar o sorteio!");
-        return; // Encerra a função se só tiver um sorteado
+    if (amigos.length < 1) {
+        alert("A lista de sorteados está vazia, para sortear adicione amigos!");
+        return; // Encerra a função se a lista estiver vazia
     }
 
     // Gera índice aleatório seguro
     const indiceSorteado = Math.floor(Math.random() * amigos.length);
     const amigoSecreto = amigos[indiceSorteado];
+      amigos.splice(indiceSorteado, 1); // Depois de ser sorteado, não há porquê
+    // deixar 
 
     // Atualiza a exibição do resultado
     const elementoResultado = document.querySelector('#resultado');
@@ -59,5 +59,4 @@ function sortearAmigo() {
 
 function resetarExibicao() {
     document.querySelector('#listaAmigos').innerHTML = '';
-    amigos = []
 }
