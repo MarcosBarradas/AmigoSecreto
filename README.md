@@ -1,31 +1,49 @@
-🎁 Amigo Secreto - Projeto Oracle ONE
-Solução simples e educativa para sorteios de fim de ano
-🔗 Acesse o projeto online
+# 🎁 Amigo Secreto - Projeto Oracle ONE  
 
-<div align="center"> <img src="https://i.imgur.com/JQ8wz7E.png" width="500" alt="Tela do Amigo Secreto"> </div>
-📚 Sobre
-Este projeto foi desenvolvido com fins educacionais como parte do programa Oracle Next Education (ONE) em parceria com a Alura.
+Solução simples e educativa para sorteios de fim de ano.  
+🚀 Desenvolvido como parte do programa **Oracle Next Education (ONE)** em **parceria com a [Alura](https://www.alura.com.br/)**.
 
-<div align="center" style="margin: 16px 0;"> <img src="https://user-images.githubusercontent.com/674899/230773513-5f7de8cf-054e-4dd0-a927-475e179e9395.png" alt="Oracle + Alura" width="300" /> </div>
-É uma aplicação simples, feita para praticar HTML, CSS e JavaScript, com o objetivo de reforçar os aprendizados do curso, simulando um sorteio de amigo secreto de forma prática.
+<p align="center">
+  <img src="https://i.imgur.com/JQ8wz7E.png" width="500" alt="Tela do Amigo Secreto">
+</p>
 
-✨ Funcionalidades
-Adicionar participantes
+---
 
-Realizar sorteio de forma simples e direta
+## 📚 Sobre o Projeto
 
-Visualizar lista de participantes
+Este projeto foi criado com o objetivo de **praticar e consolidar os conhecimentos** em HTML, CSS e JavaScript, por meio de uma aplicação prática e funcional: um sorteador de Amigo Secreto.
 
-Interface minimalista e intuitiva
+Ele integra os desafios propostos durante a formação **Oracle ONE + Alura**, iniciativa voltada à formação de novos profissionais na área de tecnologia.
 
-🛠 Tecnologias Utilizadas
-HTML5
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/674899/230773513-5f7de8cf-054e-4dd0-a927-475e179e9395.png" alt="Oracle + Alura" width="300">
+</p>
 
-CSS3
+---
 
-JavaScript (Vanilla)
+## ✨ Funcionalidades
 
-📝 Licença
-Projeto com propósito exclusivamente educacional, criado no contexto da formação Oracle ONE + Alura.
+- ✅ Adicionar participantes  
+- ✅ Realizar sorteio automaticamente  
+- ✅ Visualizar lista de nomes  
+- ✅ Interface clean e responsiva  
 
-<div align="center"> <sub>Desenvolvido por <a href="https://github.com/MarcosBarradas">Marcos Barradas</a> como parte dos estudos</sub> </div>
+---
+
+## 🛠 Tecnologias Utilizadas
+
+- **HTML5**
+- **CSS3**
+- **JavaScript (Vanilla)**
+
+---
+
+## 📝 Licença
+
+Este projeto foi desenvolvido **exclusivamente para fins educacionais**, como parte do programa **Oracle ONE** em colaboração com a **Alura**.
+
+---
+
+<div align="center">
+  <sub>Desenvolvido por <a href="https://github.com/MarcosBarradas">Marcos Barradas</a></sub>
+</div>
