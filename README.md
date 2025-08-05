@@ -1,30 +1,29 @@
-🎁 Amigo Secreto - Projeto Oracle ONE
-Solução simples para sorteios de fim de ano
-🔗 Acesse o projeto online
+🔮 Amigo Secreto - Oracle ONE
+Projeto final do curso de JavaScript da Oracle ONE
+🎯 Teste online aqui
 
-Projeto desenvolvido como parte do programa Oracle ONE em parceria com Alura
+Projeto educativo desenvolvido durante a formação Front-end da Alura em parceria com a Oracle
 
-📋 Sobre
-Este projeto foi criado como exercício do curso de JavaScript da formação Oracle ONE. É uma implementação simples e funcional para sorteios de amigo secreto, sem planos de atualizações futuras.
+<div align="center"> <img src="https://i.imgur.com/JQ8wz7E.png" width="400" alt="Print da tela do sorteio"> </div>
+� O Básico
+✔ Adiciona participantes
+✔ Sorteia um nome
+✔ Lista visual
+✔ Mobile friendly
 
-✨ Funcionalidades
-Adicionar participantes
+🛠 Feito com
+HTML puro
 
-Sorteio único
+CSS básico
 
-Visualização da lista
+JavaScript vanilla
 
-Interface minimalista
+javascript
+// Código simples e direto
+function sortear() {
+  return participantes[Math.floor(Math.random() * participantes.length)];
+}
+📜 Nota
+Projeto desenvolvido exclusivamente para fins de aprendizagem no programa Oracle ONE, sem manutenção ou atualizações planejadas.
 
-🛠 Tecnologias Utilizadas
-HTML5
-
-CSS3
-
-JavaScript Vanilla
-
-📝 Licença
-Este projeto foi desenvolvido para fins educacionais como parte do programa Oracle ONE.
-
-<div align="center"> <sub>Código desenvolvido por <a href="https://github.com/MarcosBarradas">Marcos Barradas</a></sub> </div>
-
+<div align="center"> <sub>Feito por <a href="https://github.com/MarcosBarradas">Marcos</a> | 2023</sub> </div>
