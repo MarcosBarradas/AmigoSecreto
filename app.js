@@ -19,5 +19,15 @@ function adicionarAmigo(e){
     
     campoDeTexto.value = "";
     console.log(amigos)
-
+    atualizarListaAmigos(amigos);
 }
+
+function atualizarListaAmigos(amigos){
+    let lista = document.querySelector("#listaAmigos");
+    lista.innerHTML = "";
+    for (let contadora = 0; contadora < amigos.length; contadora++){
+        lista.innerHTML += `<li>${amigos[contadora]}</li>`;
+    }
+} 
+
+
