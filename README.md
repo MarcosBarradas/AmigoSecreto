@@ -28,12 +28,6 @@ JavaScript puro (ES6+)
 
 GitHub Pages para deploy
 
-📌 Próximas Atualizações
-Enviar sorteio por WhatsApp
-
-Modo "Turbo" para muitos participantes
-
-Temas festivos (Natal, Ano Novo)
 
 <div align="center"> <sub>Criado com ❤️ por <a href="https://github.com/MarcosBarradas">Marcos Barradas</a></sub> 🌟 Deixe sua estrela no repositório! 🐞 Encontrou um bug? <a href="https://github.com/MarcosBarradas/AmigoSecreto/issues">Reporte aqui</a> </div>
 📜 Preview
