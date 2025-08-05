@@ -59,4 +59,5 @@ function sortearAmigo() {
 
 function resetarExibicao() {
     document.querySelector('#listaAmigos').innerHTML = '';
+    amigos = []
 }
